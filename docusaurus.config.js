@@ -5,9 +5,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OpenPrint',
-  tagline: "Better Documentation for Bryan Johnsons' Blueprint",
+  tagline: "Better Documentation for Bryan Johnson's Blueprint",
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://elijahmurray.com',
   baseUrl: '/open-print/',
   organizationName: 'elijahmurray', // Change to your GitHub org/user name.
   projectName: 'open-print', // Change to your repo name.
@@ -66,7 +66,7 @@ const config = {
         // { to: '/blog', label: 'OpenPrint Updates', position: 'right' },
         {
           href: 'https://elijahmurray.substack.com/',
-          label: 'Updates',
+          label: 'Get Updates',
           position: 'right',
         },
         {
