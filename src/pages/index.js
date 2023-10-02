@@ -17,8 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/bryan/intro">
-            Get Started
+            href="https://openprint.substack.com/">
+            Subscribe for updates
           </Link>
         </div>
       </div>

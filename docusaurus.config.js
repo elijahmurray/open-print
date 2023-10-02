@@ -61,7 +61,7 @@ const config = {
         // { to: '/docs/sleep', label: 'Sleep', position: 'left' },
         // { to: '/blog', label: 'OpenPrint Updates', position: 'right' },
         {
-          href: 'https://elijahmurray.substack.com/',
+          href: 'https://openprint.substack.com/',
           label: 'Get Updates',
           position: 'right',
         },
@@ -100,7 +100,7 @@ const config = {
             },
             {
               label: 'Support',
-              href: 'https://elijahmurray.substack.com/'
+              href: 'https://openprint.substack.com/'
             },
           ],
         },
