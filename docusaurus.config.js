@@ -8,7 +8,7 @@ const config = {
   tagline: "Better Documentation for Bryan Johnsons' Blueprint",
   favicon: 'img/favicon.ico',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/open-print/',
   organizationName: 'elijahmurray', // Change to your GitHub org/user name.
   projectName: 'open-print', // Change to your repo name.
   onBrokenLinks: 'throw',
