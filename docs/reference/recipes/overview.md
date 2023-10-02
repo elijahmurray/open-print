@@ -1,6 +1,6 @@
 ---
 id: overview
-title: Recipes Overview
+title: Overview
 sidebar_position: 0
 ---
 
