@@ -17,12 +17,18 @@ const sidebars = {
   bryanSidebar: { // Change this to a more appropriate name, e.g., "bryanSidebar"
     "Bryan's Blueprint": [
       'bryan/intro',
-      'bryan/sleep',
+      {
+        type: 'category',
+        label: 'Sleep',
+        items: [
+          'bryan/sleep/overview',
+        ],
+      },
       {
         type: 'category',
         label: 'Diet',
         items: [
-          'bryan/diet-overview',
+          'bryan/diet/overview',
           {
             type: 'category',
             label: 'Food',
@@ -42,12 +48,18 @@ const sidebars = {
           },
         ],
       },
-      'bryan/fitness',
+      {
+        type: 'category',
+        label: 'Fitness',
+        items: [
+          'bryan/fitness/overview',
+        ],
+      },
       {
         type: 'category',
         label: 'Measurements',
         items: [
-          'bryan/measurements/measurements-overview',
+          'bryan/measurements/overview',
           'bryan/measurements/biomarkers',
           'bryan/measurements/tests',
         ],
