@@ -1,7 +1,7 @@
 ---
-title: VO2 max treadmill
+title: Hair measurements
 ---
 
-## VO2 max treadmill
+## Hair measurements
 
 Description of the test will go here.

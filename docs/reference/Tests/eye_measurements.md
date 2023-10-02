@@ -1,7 +1,7 @@
 ---
-title: VO2 max treadmill
+title: Eye measurements
 ---
 
-## VO2 max treadmill
+## Eye measurements
 
 Description of the test will go here.

@@ -1,7 +1,7 @@
 ---
-title: VO2 max treadmill
+title: Skin measurements
 ---
 
-## VO2 max treadmill
+## Skin measurements
 
 Description of the test will go here.

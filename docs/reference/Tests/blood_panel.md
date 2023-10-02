@@ -1,7 +1,7 @@
 ---
-title: VO2 max treadmill
+title: Blood panel
 ---
 
-## VO2 max treadmill
+## Blood panel
 
 Description of the test will go here.

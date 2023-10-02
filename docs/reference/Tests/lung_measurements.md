@@ -1,7 +1,8 @@
 ---
-title: VO2 max treadmill
+title: Lung measurements
 ---
 
-## VO2 max treadmill
+## Lung measurements
+
 
 Description of the test will go here.

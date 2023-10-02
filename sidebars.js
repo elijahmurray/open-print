@@ -48,7 +48,8 @@ const sidebars = {
         label: 'Measurements',
         items: [
           'bryan/measurements/measurements-overview',
-          'bryan/measurements/test-results',
+          'bryan/measurements/biomarkers',
+          'bryan/measurements/tests',
         ],
       },
     ],

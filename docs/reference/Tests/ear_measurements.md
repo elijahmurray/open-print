@@ -1,7 +1,7 @@
 ---
-title: VO2 max treadmill
+title: Ear measurements
 ---
 
-## VO2 max treadmill
+## Ear measurements
 
 Description of the test will go here.

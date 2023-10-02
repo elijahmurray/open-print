@@ -1,7 +1,7 @@
 ---
-title: Grip Strength Dominant
+title: Grip Strength (Dominant)
 ---
 
-A measure of the strength of the dominant hand.
+## Grip Strength (Dominant)
 
-More details coming soon...
+Description of the test will go here.

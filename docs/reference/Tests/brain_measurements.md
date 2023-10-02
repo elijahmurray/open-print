@@ -1,7 +1,7 @@
 ---
-title: VO2 max treadmill
+title: Brain measurements
 ---
 
-## VO2 max treadmill
+## Brain measurements
 
 Description of the test will go here.
