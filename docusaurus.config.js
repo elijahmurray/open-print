@@ -39,7 +39,7 @@ const config = {
       title: 'OpenPrint',
       logo: {
         alt: 'Open Print Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.jpg',
       },
       items: [
         {
