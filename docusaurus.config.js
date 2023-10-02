@@ -4,13 +4,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Open Print',
+  title: 'OpenPrint',
   tagline: "Better Documentation for Bryan Johnsons' Blueprint",
   favicon: 'img/favicon.ico',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  organizationName: 'facebook', // Change to your GitHub org/user name.
-  projectName: 'docusaurus', // Change to your repo name.
+  organizationName: 'elijahmurray', // Change to your GitHub org/user name.
+  projectName: 'open-print', // Change to your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
@@ -40,7 +40,7 @@ const config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Open Print',
+      title: 'OpenPrint',
       logo: {
         alt: 'Open Print Logo',
         src: 'img/logo.svg',
@@ -48,7 +48,7 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'intro', // First doc as an entry point
+          docId: 'bryan/intro', // First doc as an entry point
           position: 'left',
           label: 'Bryan',
         },
@@ -71,10 +71,7 @@ const config = {
         {
           title: 'Categories',
           items: [
-            { label: 'Intro', to: '/docs/intro' },
-            { label: 'Diet', to: '/docs/diet' },
-            { label: 'Measurements', to: '/docs/measurements' },
-            { label: 'Fitness', to: '/docs/fitness' },
+            { label: 'Blueprint', to: '/docs/bryan' },
             { label: 'Sleep', to: '/docs/sleep' },
           ],
         },
@@ -82,16 +79,8 @@ const config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Reddit',
+              href: 'https://www.reddit.com/r/blueprint_/',
             },
           ],
         },

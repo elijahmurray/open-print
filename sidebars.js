@@ -16,41 +16,54 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: { // Change this to a more appropriate name, e.g., "bryanSidebar"
     "Bryan's Blueprint": [
-      'intro',
+      'bryan/intro',
+      'bryan/sleep',
       {
         type: 'category',
         label: 'Diet',
         items: [
-          'diet-overview',
+          'bryan/diet-overview',
           {
             type: 'category',
             label: 'Food',
             items: [
-              'recipes/green-giant',
-              'recipes/super-veggie',
-              'recipes/nutty-pudding',
+              'reference/recipes/green-giant',
+              'reference/recipes/super-veggie',
+              'reference/recipes/nutty-pudding',
             ],
           },
           {
             type: 'category',
             label: 'Supplements',
             items: [
-              'supplements/overview',
-              'supplements/starter-items',
+              'reference/supplements/overview',
+              'reference/supplements/starter-items',
             ],
           },
         ],
       },
-      'measurements',
-      'fitness',
-      'sleep'
+      'bryan/fitness',
+      'bryan/measurements',
     ],
   },
-  'Recipes': [
-    'recipes/overview',
-    'recipes/green-giant',
-    'recipes/super-veggie',
-    'recipes/nutty-pudding',
+  'Reference': [
+    {
+      type: 'category',
+      label: 'Recipes',
+      items: [
+        'reference/recipes/overview',
+        'reference/recipes/green-giant',
+        'reference/recipes/super-veggie',
+        'reference/recipes/nutty-pudding',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Supplements',
+      items: [
+        'coming-soon',
+      ],
+    },
   ],
 
   // But you can create a sidebar manually
