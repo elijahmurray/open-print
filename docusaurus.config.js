@@ -53,11 +53,17 @@ const config = {
           label: 'Bryan',
         },
         { to: '/', label: 'You', position: 'left' },
+        {
+          type: 'doc',
+          docId: 'Reference/overview', // First doc as an entry point
+          position: 'left',
+          label: 'Reference',
+        },
         // { to: '/docs/diet', label: 'Diet', position: 'left' },
         // { to: '/docs/measurements', label: 'Measurements', position: 'left' },
         // { to: '/docs/fitness', label: 'Fitness', position: 'left' },
         // { to: '/docs/sleep', label: 'Sleep', position: 'left' },
-        { to: '/blog', label: 'Project Updates', position: 'right' },
+        { to: '/blog', label: 'OpenPrint Updates', position: 'right' },
         {
           href: 'https://github.com/elijahmurray/open-print',
           label: 'GitHub',
@@ -90,12 +96,12 @@ const config = {
             { label: 'Blog', to: '/blog' },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/elijahmurray/open-print',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Open source © ${new Date().getFullYear()} Elijah Murray.`,
     },
     prism: {
       theme: lightCodeTheme,
