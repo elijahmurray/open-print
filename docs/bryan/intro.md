@@ -4,7 +4,7 @@ title: Intro
 sidebar_position: 1
 ---
 
-Welcome to the official documentation of Bryan Johnson's Blueprint Protocol. This platform serves as a comprehensive guide to Bryan's meticulously designed system, aimed at achieving optimal health, longevity, and well-being. Rooted in scientific evidence, technological advancements, and personal experimentation, the Blueprint Protocol is more than just a regimen—it's a philosophy.
+Welcome to the unofficial documentation of Bryan Johnson's Blueprint Protocol. This platform serves as a comprehensive guide to Bryan's meticulously designed system, aimed at achieving optimal health, longevity, and well-being. Rooted in scientific evidence, technological advancements, and personal experimentation, the Blueprint Protocol is more than just a regimen—it's a philosophy.
 
 **Why This Documentation Exists:**
 - **Transparency:** Bryan believes in sharing his journey, discoveries, and results with the world. This documentation provides an in-depth look into every facet of the Blueprint Protocol, ensuring that anyone can understand, follow, and potentially benefit from it.
