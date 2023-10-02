@@ -19,7 +19,7 @@ title: Tests
 | [Grip Strength (Dominant)](/docs/Reference/Tests/grip_strength_dominant) |           |
 | [Grip Strength (Non-dominant)](/docs/Reference/Tests/grip_strength_non_dominant) |           |
 | [HRV (Heart Rate Variability)](/docs/Reference/Tests/hrv_heart_rate_variability) | Daily     |
-| [MRI (e.g., liver, whole body, brain)](/docs/Reference/Tests/mri_eg_liver_whole_body_brain) |           |
+| [MRI (e.g., liver, whole body, brain)](/docs/Reference/Tests/mri_whole_body) |           |
 | [Pace of Aging Test (epigenetic clock DunedinPACE)](/docs/Reference/Tests/pace_of_aging_test_epigenetic_clock_dunedinpace) |           |
 | [Blood glucose measurement](/docs/Reference/Tests/blood_glucose_measurement) |           |
 | [Telomeres PBMC measurement](/docs/Reference/Tests/telomeres_pbmc_measurement) |           |

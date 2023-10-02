@@ -52,7 +52,7 @@ const config = {
           position: 'left',
           label: 'Bryan',
         },
-        { to: '/', label: 'You', position: 'left' },
+        { to: 'docs/you/overview', label: 'You', position: 'left' },
         {
           type: 'doc',
           docId: 'Reference/overview', // First doc as an entry point
@@ -63,7 +63,12 @@ const config = {
         // { to: '/docs/measurements', label: 'Measurements', position: 'left' },
         // { to: '/docs/fitness', label: 'Fitness', position: 'left' },
         // { to: '/docs/sleep', label: 'Sleep', position: 'left' },
-        { to: '/blog', label: 'OpenPrint Updates', position: 'right' },
+        // { to: '/blog', label: 'OpenPrint Updates', position: 'right' },
+        {
+          href: 'https://elijahmurray.substack.com/',
+          label: 'Updates',
+          position: 'right',
+        },
         {
           href: 'https://github.com/elijahmurray/open-print',
           label: 'GitHub',
@@ -77,8 +82,7 @@ const config = {
         {
           title: 'Categories',
           items: [
-            { label: 'Blueprint', to: '/docs/bryan' },
-            { label: 'Sleep', to: '/docs/sleep' },
+            { label: 'Blueprint', to: '/docs/bryan/intro' },
           ],
         },
         {
@@ -93,10 +97,14 @@ const config = {
         {
           title: 'More',
           items: [
-            { label: 'Blog', to: '/blog' },
+            // { label: 'Blog', to: '/blog' },
             {
               label: 'GitHub',
               href: 'https://github.com/elijahmurray/open-print',
+            },
+            {
+              label: 'Support',
+              href: 'https://elijahmurray.substack.com/'
             },
           ],
         },

@@ -17,7 +17,7 @@ The protocol revolves around a set of core meals, each designed to offer a uniqu
 - **Nutty Pudding**: A dessert dish with a blend of nuts and seeds.
 - **Example Third Meals**: Varied meals that incorporate a mix of vegetables, nuts, seeds, and berries.
 
-For detailed recipes and ingredients, refer to the [Recipes section](./recipes/overview).
+For detailed recipes and ingredients, refer to the [Recipes section](/docs/Reference/Recipes/overview)
 
 ## Supplements
 
