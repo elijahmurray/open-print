@@ -59,7 +59,7 @@ const config = {
         // { to: '/docs/sleep', label: 'Sleep', position: 'left' },
         { to: '/blog', label: 'Project Updates', position: 'right' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/elijahmurray/open-print',
           label: 'GitHub',
           position: 'right',
         },
