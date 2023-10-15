@@ -43,7 +43,6 @@ const sidebars = {
             label: 'Supplements',
             items: [
               'Reference/Supplements/overview',
-              'Reference/Supplements/starter-items',
             ],
           },
         ],
