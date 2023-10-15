@@ -22,6 +22,10 @@ const sidebars = {
         label: 'Sleep',
         items: [
           'bryan/sleep/overview',
+          'bryan/sleep/wind-down-routine',
+          'bryan/sleep/evening-skin-care-routine',
+          'bryan/sleep/sleep-environment',
+          'bryan/sleep/going-to-sleep',
         ],
       },
       {
