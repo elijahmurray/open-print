@@ -14,7 +14,8 @@ Bryan Johnson's evening begins with a series of activities designed to help him 
    
 2. **Evening Prep**: This step involves preparing for the night ahead. It could include tasks like setting out clothes for the next day, preparing any nighttime drinks or snacks, or organizing the bedroom for sleep.
 
-3. **HRV Training & Other Gadgets**: Bryan uses various gadgets to monitor and improve his Heart Rate Variability (HRV). These tools help him understand his body's readiness for sleep and make any necessary adjustments to his routine.
+3. **HRV Training & Other Gadgets**: Bryan uses various gadgets to monitor and improve his Heart Rate Variability (HRV). These tools help him understand his body's readiness for sleep and make any necessary adjustments to his routine. 
+See [Devices](/docs/Reference/Devices/overview).
 
 4. **Relaxation Techniques**: Engaging in relaxation techniques such as deep breathing exercises, meditation, or light stretching can help reduce stress and prepare the body for sleep.
 

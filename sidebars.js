@@ -22,11 +22,25 @@ const sidebars = {
         label: 'Sleep',
         items: [
           'bryan/sleep/overview',
-          'bryan/sleep/wind-down-routine',
-          'bryan/sleep/evening-skin-care-routine',
-          'bryan/sleep/sleep-environment',
-          'bryan/sleep/going-to-sleep',
-        ],
+          {
+            type: 'category',
+            label: 'Morning',
+            items: [
+              'bryan/sleep/Morning/overview',
+            ]
+          },
+          {
+            type: 'category',
+            label: 'Evening',
+            items: [
+              'bryan/sleep/Evening/overview',
+              'bryan/sleep/Evening/wind-down-routine',
+              'bryan/sleep/Evening/evening-skin-care-routine',
+              'bryan/sleep/Evening/sleep-environment',
+              'bryan/sleep/Evening/going-to-sleep',
+            ],
+          },
+        ]
       },
       {
         type: 'category',
