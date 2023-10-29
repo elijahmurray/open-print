@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             href="https://openprint.substack.com/">
-            Subscribe for updates
+            Subscribe to the newsletter (free)
           </Link>
         </div>
       </div>
